@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Saídas geradas a cada execução
+reports/
+screenshots/
+
+# Editor
+.vscode/
